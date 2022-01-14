@@ -7,13 +7,12 @@ We are builders of affordable and customized technology solutions for small and 
 
 ### Connect with us!
 
-[<img align="left" alt="Spinsage" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Spinsage" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Spinsage" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Spinsage" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Spinsage" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Spinsage" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Spinsage" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pinterest.svg" />][pinterest]
+[<img align="left" alt="Spinsage" src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
+[<img align="left" alt="Spinsage" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Spinsage" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" />][youtube]
+[<img align="left" alt="Spinsage" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Spinsage" src="https://img.shields.io/badge/-Instagram-8a3ab9?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Spinsage" src="https://img.shields.io/badge/-Pinterest-c8232c?style=for-the-badge&logo=Pinterest&logoColor=white" />][pinterest]
 
 [website]: https://spinsage.com
 [facebook]: https://www.facebook.com/spinsage
