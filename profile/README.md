@@ -1,6 +1,9 @@
 ## Hi from [Spinsage][website] 👋
 
 We are builders of affordable and customized technology solutions for small and medium businesses and individuals.
+<br/><br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spinsager)](https://git.io/streak-stats)
+
 
 ### Connect with us!
 
@@ -11,7 +14,6 @@ We are builders of affordable and customized technology solutions for small and 
 [<img align="left" alt="Spinsage" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Spinsage" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Spinsage" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pinterest.svg" />][pinterest]
-
 
 [website]: https://spinsage.com
 [facebook]: https://www.facebook.com/spinsage
